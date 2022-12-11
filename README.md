@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G-yan
+- 👋 Hi, I’m @Zee-yan
 - 👀 I’m interested in Meta Projects
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
